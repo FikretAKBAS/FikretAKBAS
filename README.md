@@ -1,5 +1,5 @@
 # Hi, I’m @FikretAKBAS 👋 
-- 👀 I’m interested in React and SQL
+- 👀 I’m interested in Javacript
 - 🌱 I’m currently learning Bootstrap5, VBA Excell and React
 - 💞️ I’m looking to collaborate on React
 - 📫 How to reach me, fikrettakbas@gmail.com
